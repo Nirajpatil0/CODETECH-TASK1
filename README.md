@@ -1,16 +1,16 @@
 
 # Profile
 
-Name: Niraj Santosh Patil 
+**Name**: Niraj Santosh Patil 
  
-Company: CODETECH IT SOLUTIONS
+**Company**: CODETECH IT SOLUTIONS
 
-ID: CT08DS3435
+**ID**: CT08DS3435
 
-Duration: July To August 2024
+**Duration**: July To August 2024
 
 # Overview of the project
-Project Name: BMI Tracker App
+# Project Name: BMI Tracker App
 ![codetech1](https://github.com/user-attachments/assets/011a722f-4c8f-4fd4-968f-37ccce480253)
 
 This is a simple and attractive web application built using Flask that calculates the Body Mass Index (BMI) based on user input for height (in meters) and weight (in kilograms). The application also provides a classification of the BMI into categories such as underweight, normal weight, overweight, and various classes of obesity.
